@@ -10,12 +10,12 @@
   // La configuración de Firebase de su aplicación web
   // Para Firebase JS SDK v7.20.0 y versiones posteriores, MeasureId es opcional
   var  firebaseConfig  =  {
-    apiKey: "AIzaSyAP0U5a82XzdvJf9sCV9b8xhSZZtPOx9bM",
-    authDomain: "chat41casp.firebaseapp.com",
-    projectId: "chat41casp",
-    storageBucket: "chat41casp.appspot.com",
-    messagingSenderId: "346756189972",
-    appId: "1:346756189972:web:b0a8c8d78c552d99b57c01"
+    apiKey: "AIzaSyA-0VG6bQC8HMkNpm4zUUyvOASO2RW8cNU",
+    authDomain: "basedatos-2310d.firebaseapp.com",
+    projectId: "basedatos-2310d",
+    storageBucket: "basedatos-2310d.appspot.com",
+    messagingSenderId: "755994364389",
+    appId: "1:755994364389:web:0850c20274c947b054470c"
   } ;
   // Inicializar Firebase
   base de fuego . initializeApp ( firebaseConfig ) ;
